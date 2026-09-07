@@ -1,0 +1,6 @@
+name: antigravity-oauth
+version: 1.1.0
+description: Google Antigravity accounts manager and OpenAI-compatible proxy provider (Hermes fork)
+author: hermes-antigravity-plugin maintainers
+provides_hooks:
+  - pre_llm_call
